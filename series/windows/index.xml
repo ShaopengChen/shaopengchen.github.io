@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ShaoPeng</title>
-    <link>https://shaopengchen.github.io/</link>
-    <description>Recent content on ShaoPeng</description>
+    <title>Windows on ShaoPeng</title>
+    <link>https://shaopengchen.github.io/series/windows/</link>
+    <description>Recent content in Windows on ShaoPeng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 May 2023 17:22:37 +0800</lastBuildDate><atom:link href="https://shaopengchen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 May 2023 17:22:37 +0800</lastBuildDate><atom:link href="https://shaopengchen.github.io/series/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows Terminal快捷键指南</title>
       <link>https://shaopengchen.github.io/posts/windowsterminalshortcuts/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://shaopengchen.github.io/posts/windowsterminalshortcuts/</guid>
       <description>Windows Terminal 快捷键指南 Link to heading 选项卡管理 Link to heading 新建选项卡 Link to heading 操作 快捷键 新建标签页 ctrl + shift + T 新建指定标签页 ctrl + shift + number 复制当前标签页 ctrl + shift + D 新建窗口 ctrl + shift + N 切换选项卡 Link to heading 操作 快捷键 切换上一个选项卡 ctrl + shift + tab 切换下一个选项卡 ctrl + tab 切换到最后一个选项卡 ctrl + alt + 9 切换到指定选项卡 ctrl + alt + number 关闭选项卡 Link to heading 操作 快捷键 关闭窗口 alt + F4 关闭标签页（自定义） ctrl + alt + F4 窗格管理 Link to heading 新建窗格 Link to heading 操作 快捷键 复制当前窗格 alt + shift + D 向下新建窗格 alt + shift + minus 向右新建窗格 alt + shift + plus 切换窗格 Link to heading 操作 快捷键 窗格间光标移动 alt + up/down/right/left 调整窗格大小 alt + shift + up/down/right/left 关闭窗格 Link to heading 操作 快捷键 关闭窗格 ctrl + shift + W 文本编辑 Link to heading 字体调整 Link to heading 操作 快捷键 增大字号 ctrl + plus 减小字号 ctrl + minus 重置字号 ctrl + 0 选择所有文本 ctrl + shift + A 文本操作 Link to heading 操作 快捷键 复制文本 ctrl + insert / ctrl + C / ctrl + shift + C 粘贴文本 shift + insert / ctrl + V / ctrl + shift + V 其他操作 Link to heading 操作 快捷键 Alt+Enter/ F11 | 切换全屏模式 |</description>
-    </item>
-    
-    <item>
-      <title>个人简介</title>
-      <link>https://shaopengchen.github.io/about/</link>
-      <pubDate>Thu, 11 May 2023 10:04:13 +0800</pubDate>
-      
-      <guid>https://shaopengchen.github.io/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://shaopengchen.github.io/contact/</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://shaopengchen.github.io/contact/</guid>
-      <description>Follow me, @Shaopeng</description>
     </item>
     
   </channel>
