@@ -5,7 +5,21 @@
     <link>https://shaopengchen.github.io/posts/</link>
     <description>Recent content in Posts on ShaoPeng</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 25 May 2023 17:22:37 +0800</lastBuildDate><atom:link href="https://shaopengchen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 17:41:58 +0800</lastBuildDate><atom:link href="https://shaopengchen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; Github Pages搭建个人网站</title>
+      <link>https://shaopengchen.github.io/posts/howtowritehugopost/</link>
+      <pubDate>Tue, 30 May 2023 17:41:58 +0800</pubDate>
+      
+      <guid>https://shaopengchen.github.io/posts/howtowritehugopost/</guid>
+      <description>Hugo 搭建 链接到标题 环境：Ubuntu 20.04LTS 平台：Github Pages 安装 Hugo 链接到标题 $ sudo apt install hugo 创建网站 链接到标题 $ hugo new site website 执行完成后会生成一个website文件夹
+添加 Hugo 主题 链接到标题 选择一个你喜欢的Hugo主题，如hugo-coder，克隆到themes目录。
+$ cd website/themes $ git clone https://github.com/luizdepra/hugo-coder.git 创建文章 链接到标题 $ hugo new content/posts/1.md 启动hugo服务 链接到标题 $ hugo server 浏览器访问localhost:1313，即可查看本地搭建的网站。
+Github Pages 建站 链接到标题 本地生成静态网站 链接到标题 $ cd website $ hugo 生成的网站文件都存放在public文件夹中
+推送到GitHub仓库 链接到标题 需要先创建个人站点的GitHub仓库（yourname.github.io）,并建立远程分支main。
+$ cd public $ git init $ git add .</description>
+    </item>
+    
     <item>
       <title>Windows Terminal快捷键指南</title>
       <link>https://shaopengchen.github.io/posts/windowsterminalshortcuts/</link>
@@ -22,15 +36,6 @@
       
       <guid>https://shaopengchen.github.io/posts/howtoconfigh3cswitch/</guid>
       <description>：+++ draft = true date = 2023-05-30T17:43:23+08:00 title = &amp;quot;&amp;quot; description = &amp;quot;&amp;quot; slug = &amp;quot;&amp;quot; authors = [] tags = [] categories = [] externalLink = &amp;quot;&amp;quot; series = [] +++</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://shaopengchen.github.io/posts/howtowritehugopost/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://shaopengchen.github.io/posts/howtowritehugopost/</guid>
-      <description>：+++ draft = true date = 2023-05-30T17:41:58+08:00 title = &amp;quot;&amp;quot; description = &amp;quot;&amp;quot; slug = &amp;quot;&amp;quot; authors = [] tags = [] categories = [] externalLink = &amp;quot;&amp;quot; series = [] +++</description>
     </item>
     
   </channel>
